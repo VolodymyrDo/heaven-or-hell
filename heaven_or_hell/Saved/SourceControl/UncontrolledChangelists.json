@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+=======
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/block.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/block_hitbox.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/lvl/lvl1.umap",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Assets.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Background_1.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Background_1_Sprite.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Background_2.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Background_2_Sprite.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/entrance.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Mine.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/trees.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/blueprints/hero_blueprints/bp_hero.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/blueprints/hero_blueprints/AnimSequences/Jump.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/blueprints/hero_blueprints/as_hero.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/blueprints/hero_blueprints/ABP_hero.uasset",
+				"D:/heaven-or-hell/heaven-or-hell/heaven_or_hell/Content/World/Assets_TileSet.uasset",
+>>>>>>> 21b3db07a2afa1eb575d72327f0a798534cfdf29
 				"E:/my game/heaven-or-hell/heaven_or_hell/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/my game/heaven-or-hell/heaven_or_hell/Content/lvl/lvl1.umap",
 				"E:/my game/heaven-or-hell/heaven_or_hell/Content/hero/walk/WALK.uasset",
